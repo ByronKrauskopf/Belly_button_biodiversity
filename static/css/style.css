@@ -1,0 +1,26 @@
+
+body {
+    background-color: #DCDCDC
+}
+
+.jumbotron {
+    background-image: url('../images/bacteria_image_1.jfif');
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.jumbotron h1 {
+    color: #F0F8FF
+}
+
+.jumbotron p {
+    color: #F0F8FF
+}
+
+.well {
+    background-color: #DCDCDC
+}
+
+.col-md-5 {
+    background-color: #DCDCDC
+}
